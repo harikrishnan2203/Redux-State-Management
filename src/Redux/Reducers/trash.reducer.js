@@ -15,9 +15,6 @@ export const TrashReducer = createSlice({
         });
       }
     },
-    // deleteTask: (state, action) => {
-    //   state.tasks = state.tasks.filter((task) => task.id !== action.payload);
-    // },
   },
 });
 
